@@ -1,0 +1,115 @@
+body {
+   margin: 0;
+   font-family: 'Open Sans', sans-serif;
+   background: #f5f4f0;
+}
+
+#container {
+   width: 1120px;
+   margin: 88px 80px 48px 80px;
+}
+
+img {
+   border-radius: 28px;
+   width: 100%;
+}
+
+article img {
+   height: 400px;
+   object-fit: cover; /* Ajusta a proporção da imagem*/
+}
+
+h1 {
+   color: #1b1b1b;
+   font-size: 36px;
+   margin-top: 8px;
+}
+
+h2 {
+   font-size: 32px;
+   margin-top: 2px;
+}
+
+h3 {
+   font-size: 28px;
+   margin-top: 20px;
+}
+
+p {
+   margin: 0px;
+}
+
+.description-image {
+   margin: 40px 0;
+}
+
+.headline {
+   color: #e1624f;
+   font-size: 16px;
+   line-height: 22px;
+   font-weight: bold;
+   text-transform: uppercase;
+}
+
+.subtitle {
+   color: #333333;
+   font-size: 16px;
+   line-height: 22px;
+   font-style: italic;
+   text-align: center;
+   margin-top: 24px;
+}
+
+.divider {
+   width: 100%;
+   height: 1px;
+   margin: 40px 0;
+   background-color: #d9d9d9;
+}
+
+.title-list {
+   margin: 64px 0;
+}
+
+.list_01 {
+   margin-bottom: 48px;
+}
+
+.history {
+   color: blue;
+}
+
+.casais {
+   color: #591b98;
+}
+
+.familias {
+   color: #e5245e;
+}
+
+.orcamento {
+   color: #e95e10;
+}
+
+.list_01 ul,
+.list_02 ul {
+   margin: 0;
+   padding-left: 35px;
+   list-style-position: outside;
+}
+
+.list_01,
+.list_02 {
+   margin-top: 16px;
+   font-weight: bold;
+}
+
+.final {
+   text-align: center;
+}
+
+footer {
+   text-align: center;
+   width: 1120px;
+   margin: 65px 80px 48px 80px;
+}
