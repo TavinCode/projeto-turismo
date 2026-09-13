@@ -20,7 +20,6 @@ article img {
 }
 
 h1 {
-   color: #1b1b1b;
    font-size: 36px;
    margin-top: 8px;
 }
@@ -33,6 +32,12 @@ h2 {
 h3 {
    font-size: 28px;
    margin-top: 20px;
+}
+
+h1,
+h2,
+h3 {
+   color: #1b1b1b;
 }
 
 p {
@@ -60,6 +65,10 @@ p {
    margin-top: 24px;
 }
 
+p {
+   color: #333333;
+}
+
 .divider {
    width: 100%;
    height: 1px;
@@ -76,7 +85,7 @@ p {
 }
 
 .history {
-   color: blue;
+   color: #0c51a7;
 }
 
 .casais {
